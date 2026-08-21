@@ -1,0 +1,9 @@
+Install dependencies
+        ↓
+Backend tests
+        ↓
+Frontend build
+        ↓
+Linting
+        ↓
+Pass / Fail
