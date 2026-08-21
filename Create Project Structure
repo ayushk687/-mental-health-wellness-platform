@@ -1,0 +1,52 @@
+mental-health-wellness-platform/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── layouts/
+│   │   ├── hooks/
+│   │   ├── services/
+│   │   ├── context/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── backend/
+│   ├── config/
+│   ├── users/
+│   ├── wellness/
+│   ├── mood/
+│   ├── journal/
+│   ├── resources/
+│   ├── recommendations/
+│   ├── notifications/
+│   ├── analytics/
+│   ├── ai/
+│   ├── manage.py
+│   └── requirements.txt
+│
+├── ai/
+│   ├── models/
+│   ├── services/
+│   ├── prompts/
+│   └── README.md
+│
+├── docs/
+│   ├── architecture.md
+│   ├── api.md
+│   ├── database.md
+│   └── security.md
+│
+├── tests/
+│
+├── .env.example
+├── .gitignore
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+└── LICENSE
